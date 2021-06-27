@@ -1,13 +1,13 @@
 # Layout
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123529235-bf848800-d6c4-11eb-96d8-801643499733.PNG" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123529470-d4fab180-d6c6-11eb-8603-3565946695e8.PNG" style="max-width: 100%;"></img>
 </a>
 
 ##
 
 <a href="#">
-<img align="center"  alt="jonas-C#" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123529236-c01d1e80-d6c4-11eb-932f-70383d5169f2.PNG" style="max-width: 100%;"></img>
+<img align="center"  alt="jonas-C#" height ="500" width ="1000" src ="https://user-images.githubusercontent.com/25933386/123529472-d62bde80-d6c6-11eb-95c7-7bae91ef3d09.PNG" style="max-width: 100%;"></img>
 </a>
 
 ##
@@ -18,12 +18,11 @@
 
 ##
 
-
 <a href="#">
 <img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width: 100%;"></img>
 </a>
 
-# Calcula a Area do Triangulo
+# Calculo da Area do Terreno
 
 <a href="#">
 <img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img>
@@ -31,7 +30,7 @@
 
 # Sobre o Projeto
 
-- Programa básico, calcule a area do triangulo, no console, e execulta o resultado na tela.
+- Programa básico, Calcule a area do terreno, no console, e execulta o resultado na tela.
 - Projeto foi implemetado no console.
 - IDE Eclipse
 
